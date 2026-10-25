@@ -22,7 +22,7 @@ Built by team **SBHOMBOLOZI** for the FNB App of the Year Hackathon 2026, in the
 
 - **Live app: https://studio.flet.dev/run/nRkVwt84tm
 - **Demo login: [sbekezelo189704@gmail.com / [testproject@124]
-- **Admin demo login:[sbhombolozi@gmail.com / [testproject@123]
+- **Admin demo login:[sbhombolozi+judgeadmin@gmail.com / [testproject@125]
 
 ## Tech stack
 
